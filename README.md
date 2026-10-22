@@ -1,8 +1,8 @@
-# CIP-B103 Lab [#] – Disk Forensics: The Hacking Case (SCHARDT.dd)
+# CIP-B103 Lab 1 – Disk Forensics: The Hacking Case (SCHARDT.dd)
 
 **Student:** Fuseini Imoru Kantuogaa  
 **Course:** CIP-B103  
-**Lab:** Lab [#] – Disk Image Forensics & User Attribution Analysis
+**Lab:** Lab 1 – Disk Image Forensics & User Attribution Analysis
 
 ## Overview
 
